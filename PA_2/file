@@ -1,0 +1,15 @@
+class Program {
+    void main() {
+        x=5;
+        if(x == 1) {
+            x = x + x * x
+        }
+        if(x == 2) {
+            x = x ** x * x
+        }
+        else {
+            x = ((x)**5+2)
+        }
+    }
+
+}
